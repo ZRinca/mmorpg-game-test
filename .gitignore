@@ -1,0 +1,68 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# User settings
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity cache
+.gradle/
+AssetBundles/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+ServerData/
+
+# Generated files
+*.apk
+*.aab
+*.unitypackage
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.history/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.swp
+
+# If using Plastic SCM
+.plastic/
+
+# If using packages from local cache
+Library/PackageCache/
